@@ -1,0 +1,13 @@
+h1 {
+    color: aquamarine;
+    background-color: blue;
+}
+
+.main {
+    display: block;
+    background-color: cadetblue;
+    border: 10px solid orange;
+    border-radius: 30px;
+    padding: 15px;
+
+}
